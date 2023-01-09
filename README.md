@@ -11,6 +11,13 @@ A premium version has also been developed. This version has been upgraded from t
 
 ![image.png](https://cdn.steemitimages.com/DQmThEeuJjrcyjksT1ppcyDr84kUkard8LmCi3XwDCnVwzN/image.png)
 
+## Install
+
+
+### 1. Free version: [github release v0.9](https://github.com/passionbull/gc-tracker/releases/tag/v0.9). 
+
+### 2. Premium version: [godscombine site](https://godscombine.com/about). 
+
 ## Usage
 
 1. copy your deck code and paste it.
