@@ -13,8 +13,16 @@ The premium version also tracks the cards played by opponents and is available [
 
 
 ### 1. Free version: [github release v0.9](https://github.com/passionbull/gc-tracker/releases/tag/v0.9). 
+- Once you copy and past deck code, it shows my cards
+- Manual remove cards (for obliterate, soulless)
+- Click card row and link to marketplace
+- Show opponent user name and gu id
+
 
 ### 2. Premium version: [godscombine site](https://godscombine.com/about). 
+- Include free version features
+- Show last played opp's deck
+- Show cards opponent played so far
 
 ## Usage
 
