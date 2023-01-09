@@ -2,7 +2,7 @@
 
 I want to contribute to the Gods Unchained community. I hope this tool will help you play.
 
-GC Tracker is a desktop deck tracker application for Gods Unchained. This tool will display all the cards in your deck as well as the drawing odds. You could check code and run this code at your PC. The packaged version can be downloaded from [here](https://godscombine.com/about). 
+GC Tracker is a desktop deck tracker application for Gods Unchained. This tool will display all the cards in your deck as well as the drawing odds. You could check code and run this code at your PC. The packaged version can be downloaded from [here](https://github.com/passionbull/gc-tracker/releases/tag/v0.9). 
 
 
 
