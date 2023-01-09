@@ -1,12 +1,10 @@
 ## Introduction
 
-I want to contribute to the Gods Unchained community. I hope this tool will help you play.
+GC Tracker is a desktop application that's combines Gods Unchained gameplay with an IMX Marketplace. Use this tool to track your drawing odds in game and look up opponents Deck with a GUDeck's Hotlink to their player profile. The free packaged version can be downloaded from [here](https://github.com/passionbull/gc-tracker/releases/tag/v0.9).
 
-GC Tracker is a desktop deck tracker application for Gods Unchained. This tool will display all the cards in your deck as well as the drawing odds. You could check code and run this code at your PC. The packaged version can be downloaded from [here](https://github.com/passionbull/gc-tracker/releases/tag/v0.9). 
+The premium version also tracks the cards played by opponents and is available [here](https://godscombine.com/about) . The paid version is available for 5 GODs or active users of the GodsCombine marketplace.
 
 
-
-A premium version has also been developed. This version has been upgraded from this free version. It tracks cards played by opponents. Anyone who has trade cards or given a donation on the [godscombine site](https://godscombine.com/about) can download the premium version. 
 
 
 ![image.png](https://cdn.steemitimages.com/DQmThEeuJjrcyjksT1ppcyDr84kUkard8LmCi3XwDCnVwzN/image.png)
@@ -60,7 +58,7 @@ npm run dev
 
 ### Contributing
 
-Anyone interested in further developing this tool is welcome. Also, We want to create services that are helpful to the gu community. We also welcome co-works. Get in touch on Discord.
+I want to contribute to the Gods Unchained community. I hope this tool will help you play. Anyone interested in further developing this tool is welcome. Also, We want to create services that are helpful to the gu community. We also welcome co-works. Get in touch on Discord.
 
 ### License
 
